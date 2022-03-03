@@ -1,5 +1,5 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = gdrive://1K_MOJAgstyRLYFsvvFgbBCPlh84PFnCr
+    url = gdrive://1sOX4gTVEDWiT02dfDMLIYa_o65C04a1p
     gdrive_use_service_account = true
